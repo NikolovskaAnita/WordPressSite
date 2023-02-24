@@ -14,3 +14,5 @@ RewriteRule . /wpCvetovi/index.php [L]
 </IfModule>
 
 # END WordPress
+
+#comment for testing purposes
